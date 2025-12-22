@@ -1,8 +1,10 @@
 # Readme
 
-# 💥 Ba-Effe: Effervescence Creatives Repository
+# 🎞️ Ba-Effe: Effervescence Creatives Repository
 
-Welcome to **Ba-Effe**, the design repository for **Effervescence**, the annual cultural fest of IIIT Allahabad.
+Welcome to **Ba-Effe**, the design repository for **Effervescence**, the annual cultural fest of IIIT Allahabad. Yes, it's exactly what Ranbir Kapoor's character in Barfi could spell - if you know, you know.
+
+Aha..I think you've guessed the theme we'll be working with? That's right - **Bollywood/Filmy**! So bring your most dramatic, colorful, and cinematic design energy!
 
 Whether you're taking your first steps in design or you're a seasoned pro, this is your space to contribute and collaborate.
 
