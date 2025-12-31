@@ -1,0 +1,11 @@
+Name: Sujal kshatri
+College: NIT Raipur
+Enrollment Number: 241096
+
+About Me:
+I am a student at NIT Raipur interested in open-source contribution,
+web development, and learning new technologies.
+
+Favorite Film:
+Bollywood: Chen kuli ki man kuli
+Hollywood: Harry potter
